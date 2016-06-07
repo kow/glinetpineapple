@@ -1,0 +1,1 @@
+netsh int ip set address "local area connection 4" static 172.16.42.42 255.255.255.0
